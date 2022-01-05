@@ -1,1 +1,1 @@
-# Maintaing Go Lang Notes
+# Maintaining Go Lang Notes
