@@ -1,0 +1,2 @@
+To run Go Program, run the command: 
+go run fileName.go  => This will Print the output of the program
